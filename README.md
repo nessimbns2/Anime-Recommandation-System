@@ -12,7 +12,15 @@ This project is an Anime Recommendation System. It uses anime similarity data to
    cd Anime-Recommandation-System
    ```
 
-2. **Open the Jupyter Notebook**
+
+2. **Download the Datasets**
+
+   Download the `anime.csv` and `rating.csv` datasets from Kaggle:
+   [Anime Recommendations Database on Kaggle](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database)
+
+   Place both files in the project directory.
+
+3. **Open the Jupyter Notebook**
 
    Make sure you have Python and Jupyter installed. You can install Jupyter using pip if needed:
    ```powershell
@@ -24,7 +32,8 @@ This project is an Anime Recommendation System. It uses anime similarity data to
    jupyter notebook
    ```
 
-3. **Run the Notebook**
+
+4. **Run the Notebook**
 
 
    Open `main.ipynb` in the Jupyter interface and run the cells to use the Anime Recommendation System.
