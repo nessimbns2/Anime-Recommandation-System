@@ -26,11 +26,10 @@ This project is an Anime Recommendation System. It uses anime similarity data to
 
 3. **Run the Notebook**
 
+
    Open `main.ipynb` in the Jupyter interface and run the cells to use the Anime Recommendation System.
 
-## Repository Link
-
-[GitHub Repository](https://github.com/nessimbns2/Anime-Recommandation-System)
+   After running the notebook, a file named `anime_similarity.csv` will be created in your project directory. This file contains the computed anime similarity data.
 
 ---
 
